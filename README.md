@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @noobiescoder
-- 👀 I’m interested in blockchain
-- 🌱 I’m currently learning to life
-- 💞️ I’m looking to collaborate on rust
-- 📫 How to reach me noobiescoder@gmail.com
+## Hi, I'm Ramdhan🤓
 
-<!---
-noobiescoder/noobiescoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a noob programmer who interested on blockchain technologies🧑‍💻.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=noobiescoder&theme=blue-green)](https://github.com/noobiescoder)
