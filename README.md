@@ -5,4 +5,4 @@
 >I'm a noob programmer who interested in blockchain technologies🧑‍💻.
 
 [![noobiescoder github stats](https://github-readme-stats.vercel.app/api?username=noobiescoder&theme=blue-green)](https://github.com/noobiescoder)
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noobiescoder&theme=blue-green)](https://github.com/noobiescoder)
+[![noobiescoder top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noobiescoder&theme=blue-green)](https://github.com/noobiescoder)
